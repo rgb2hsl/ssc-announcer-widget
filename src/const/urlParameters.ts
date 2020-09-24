@@ -1,0 +1,1 @@
+export const LIST_SCROLL_DELAY = 3000;
